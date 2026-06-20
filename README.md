@@ -71,7 +71,7 @@ This project demonstrates the practical application of Computer Vision and Deep 
 </p>
 
 
-###Farm Prediction
+### Farm Prediction
 
 <p align="center">
   <img src="assets/farms.jpg" width="900">
