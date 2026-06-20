@@ -52,10 +52,8 @@ This project demonstrates the practical application of Computer Vision and Deep 
 
 ### Home Screen
 
-Add screenshot here:
-
 ```text
-assets/homepage.png
+assets/image.png
 ```
 
 ### Crop Prediction
